@@ -1589,6 +1589,7 @@ document.addEventListener('DOMContentLoaded', () => {
       image: 'https://play-lh.googleusercontent.com/mEp5D-8pPQsugTpQxtzTTQHVScVviCst65uRNrT1BdrajfkeIDHHAPlgTu8KSePI5lc=w480-h960-rw',
       categories: ['all'],
       error: false,
+    },
   ]
 
   function saveToLocal(path) {
