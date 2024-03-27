@@ -325,8 +325,8 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'game'],
       blank: 'true',
       error: false,
+      },
   ]
-
   appsList.sort((a, b) => a.name.localeCompare(b.name))
 
   const nonPinnedApps = document.querySelector('.container-apps')
