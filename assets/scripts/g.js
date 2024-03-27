@@ -1576,6 +1576,19 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/venge.png',
       categories: ['all'],
     },
+    {
+      name: 'Tomb Of The Mask',
+      link: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@9cccb2fafb569c963501a5d818472b561121cea6/totm.xml&container=ig',
+      image: 'https://play-lh.googleusercontent.com/gTd127I81O2i2Q6kfCJoN-M0OSWmgsdjB47orUFpLwANW7VZLJYrOxMVt-OpilDXszg=w480-h960-rw',
+      categories: ['all'],
+      error: false,
+    },
+    {
+      name: 'Papas Pizzeria',
+      link: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-pizzeria.xml&container=ig',
+      image: 'https://play-lh.googleusercontent.com/mEp5D-8pPQsugTpQxtzTTQHVScVviCst65uRNrT1BdrajfkeIDHHAPlgTu8KSePI5lc=w480-h960-rw',
+      categories: ['all'],
+      error: false,
   ]
 
   function saveToLocal(path) {
