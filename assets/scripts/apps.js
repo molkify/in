@@ -318,6 +318,13 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
     },
+        {
+      name: 'Enjoy4Fun',
+      link: 'https://enjoy4fun.comf',
+      image: 'https://pbs.twimg.com/profile_images/1536637553985847296/puORjh1t_400x400.jpg',
+      categories: ['all', 'game'],
+      blank: 'true',
+      error: false,
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))
