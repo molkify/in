@@ -326,6 +326,14 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
       },
+      {
+      name: 'Crazy Games',
+      link: 'https://crazygames.com',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Crazygames_jpg_logo.jpg',
+      categories: ['all', 'game'],
+      blank: 'true',
+      error: false,
+      },
   ]
   appsList.sort((a, b) => a.name.localeCompare(b.name))
 
