@@ -386,3 +386,6 @@ select {
   margin-bottom: 5vh;
   text-shadow: 2px 4px 6px rgb(0, 0, 0, 0.2);
 }
+p {
+ color: white;
+}
