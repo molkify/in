@@ -1590,6 +1590,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
       error: false,
     },
+      {
+      name: 'Csgo Surfing (scratch)',
+      link: 'https://scratch.mit.edu/projects/159243389/embed',
+      image: 'https://geometryspot.com/wp-content/uploads/elementor/thumbs/100CSGO-q76me2cv4aja6cvo8huhcju82xca31sic8xncail0o.webp',
+      categories: ['all'],
+      error: false,
+    },
   ]
 
   function saveToLocal(path) {
