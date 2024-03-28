@@ -15,6 +15,13 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
     },
+      {
+      name: 'osu',
+      link: 'https://webosu.online',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Osu%21_2024.png',
+      categories: ['all'],
+      error: false,
+    },
     {
       name: 'Dynast.io',
       link: 'https://dynast.io',
