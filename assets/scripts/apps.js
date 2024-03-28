@@ -349,6 +349,13 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
       },
+      {
+      name: 'Windows 11',
+      link: 'https://win11.blueedge.me',
+      image: 'https://avatars.githubusercontent.com/u/97238085?s=280&v=4',
+      categories: ['all', 'emu'],
+      error: false,
+      },
   ]
   appsList.sort((a, b) => a.name.localeCompare(b.name))
 
