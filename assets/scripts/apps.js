@@ -341,6 +341,14 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
       },
+          {
+      name: 'Youtube Music',
+      link: 'https://music.youtube.com',
+      image: 'https://play-lh.googleusercontent.com/GnYnNfKBr2nysHBYgYRCQtcv_RRNN0Sosn47F5ArKJu89DMR3_jHRAazoIVsPUoaMg=w600-h300-pc0xffffff-pd',
+      categories: ['all', 'media'],
+      blank: 'true',
+      error: false,
+      },
   ]
   appsList.sort((a, b) => a.name.localeCompare(b.name))
 
