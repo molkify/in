@@ -52,9 +52,9 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
         {
-      name: 'Super Mario Bros',
-      link: 'https://seraph.reveriestudios.online/games/supermariobros/index.html',
-      image: 'https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png',
+      name: 'Super Mario Bros 3',
+      link: 'https://seraph.reveriestudios.online/games/supermariobros3/index.html',
+      image: 'https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png',
       categories: ['all'],
       error: false,
     },
