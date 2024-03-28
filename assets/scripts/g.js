@@ -51,6 +51,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
       error: false,
     },
+        {
+      name: 'Super Mario Bros',
+      link: 'https://seraph.reveriestudios.online/games/supermariobros/index.html',
+      image: 'https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png',
+      categories: ['all'],
+      error: false,
+    },
     {
       name: '3 Slices',
       link: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://rb.y2.ee/3slices/3slices.xml?v=1',
