@@ -457,13 +457,6 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
-      name: 'GBA Emulator',
-      link: 'https://ds.44670.org/gba/',
-      image: '/assets/media/icons/gba.jpg',
-      categories: ['all,', 'emu'],
-      error: false,
-    },
-    {
       name: 'Itch.io',
       link: 'https://itch.io',
       image: '/assets/media/icons/itch.png',
@@ -475,27 +468,6 @@ document.addEventListener('DOMContentLoaded', () => {
       link: 'https://landgreen.github.io/sidescroller/',
       image: '/assets/media/icons/NGON.png',
       categories: ['all'],
-      error: false,
-    },
-    {
-      name: 'Nintendo DS Emulator',
-      link: 'https://ds.44670.org/',
-      image: '/assets/media/icons/ds.png',
-      categories: ['all,', 'emu'],
-      error: false,
-    },
-    {
-      name: 'Nintendo 64 Emulator',
-      link: 'https://www.neilb.net/n64wasm/',
-      image: '/assets/media/icons/N64.png',
-      categories: ['all,', 'emu'],
-      error: false,
-    },
-    {
-      name: 'Playstation 2 Emulator',
-      link: 'https://playjs.purei.org/',
-      image: '/assets/media/icons/PS2.webp',
-      categories: ['all,', 'emu'],
       error: false,
     },
     {
